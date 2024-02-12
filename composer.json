@@ -1,0 +1,16 @@
+{
+    "name": "stalk/router",
+    "description": "router exo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "jordan wakelam",
+            "email": "jwakelams@gmail.com"
+        }
+    ],
+    "require": {}
+}
